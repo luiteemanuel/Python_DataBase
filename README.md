@@ -15,7 +15,7 @@ Apos fazer toda manipulação dos dados usando o Pandas, os Dados foi inseridos 
 <img src="conulta.png">
 
 ## Libs usadas! 
-- Programming Language - Python
+- Python
 1. pandas
 2. psycopg2
 
